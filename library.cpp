@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstring>
-#include <fstring>
 #include <string>
-#include "program.h"
+#include "library.h"
 
 using namespace std;
